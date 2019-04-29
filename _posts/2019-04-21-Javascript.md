@@ -8,10 +8,10 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
 	- Javascript
-   
+    
 ---
 
-##三、Javascript
+# 三、Javascript
  
 JavaScript是用来实现网页上的特效效果。如：鼠标滑过弹出下拉菜单。或鼠标滑过表格的背景颜色改变。还有焦点新闻（新闻图片）的轮换。可以这么理解，有动画的，有交互的一般都是用JavaScript来实现的。
 
